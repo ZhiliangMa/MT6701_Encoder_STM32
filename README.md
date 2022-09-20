@@ -24,7 +24,7 @@
 
 源码见文件夹 
 
-详细介绍请对照博文：[CSDN]()
+详细介绍请对照博文：[CSDN - https://blog.csdn.net/Mark_md/article/details/126910658](https://blog.csdn.net/Mark_md/article/details/126910658)
 
 <br>
 
@@ -35,6 +35,8 @@
 ---
 # 个人小店在售电机转接板资料
 原理图：[Schematic_MT6701_Universal_Adapter_Brd](mt6701_brd/Schematic_MT6701_Universal_Adapter_Brd_2022-09-12.pdf)
+
+`ABZ/UVW/PWM/模拟量/I2C/SSI` 接口均已引出，PCB外形可适配 22xx、2606、2804、35xx、6010、6374、36/42/57步进 等多种电机的安装。
 
 TB店铺名：芯源艺码
 
