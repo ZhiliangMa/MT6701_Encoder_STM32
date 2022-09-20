@@ -24,7 +24,7 @@
 
 源码见文件夹 
 
-详细介绍请对照博文：[CSDN - https://blog.csdn.net/Mark_md/article/details/126910658](https://blog.csdn.net/Mark_md/article/details/126910658)
+详细介绍请对照博文：[CSDN - MT6701磁编码器使用指南，14Bit单圈绝对值，I2C stm32 HAL库读角度](https://blog.csdn.net/Mark_md/article/details/126910658)
 
 <br>
 
